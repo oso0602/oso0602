@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Oso
-- 👀 I’m interested in Canda high school 
+- 👀 I’m interested in Canada high school 
 - 🌱 I’m currently learning python
 - 📫 How to reach me : yl_e8425@ylpss.edu.hk
 
